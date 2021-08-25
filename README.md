@@ -20,8 +20,8 @@ tracking the bus route from MIT and Harvard.</p>
 <p>Implement GPS tracking and use that to account for the time interval from the bus moving
 from one spot to the next in order to have it be real time data</p>
 
-<h3>Check it out:</h3>
-<a href="https://elowskya.github.io/Real-Time-Bus-Tracking/">https://elowskya.github.io/Real-Time-Bus-Tracking/</a>
+<h3>Add your token and you will have:</h3>
+<a href="http://somup.com/crjTnNr1ZR">Video Preview</a>
 
 
 <h3>License Information</h3>
