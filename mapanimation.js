@@ -14,7 +14,9 @@ const busStops = [
     [-71.118625, 42.374863],
   ];
 
-  //Add your own access Token as variable const mapKey = '<your key here>'
+  //Add your own access Token as variable 
+  
+  //const mapKey = '<your key here>'
 
    mapboxgl.accessToken = mapKey;
   
